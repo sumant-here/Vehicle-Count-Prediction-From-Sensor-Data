@@ -46,5 +46,3 @@ Given a set of time-series sensor inputs, predict the number of vehicles passing
 * A scalable framework that can be adapted for real-world traffic systems
 
 ---
-
-Let me know if you want to customize this for a deep learning or IoT-focused version!
